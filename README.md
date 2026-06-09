@@ -24,7 +24,7 @@ PLAYWRIGHT/
 ├── fixtures/              # test data / static datasets
 ├── pages/                 # Page Object Models
 ├── tests/                 # test specs (.spec.ts)
-├── test-results/         # execution artifacts (auto-generated)
+├── test-results/          # execution artifacts (auto-generated)
 ├── node_modules/
 ├── playwright.config.ts
 └── env.ts
